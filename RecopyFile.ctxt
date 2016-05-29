@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=fich1\ fich2
+comment0.target=RecopyFile(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Constructeur\ d'objets\ de\ classe\ RecopyFile\n
+comment1.params=in\ out
+comment1.target=void\ fileCopy(java.io.File,\ java.io.File)
+numComments=2
